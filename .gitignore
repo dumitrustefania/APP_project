@@ -1,0 +1,16 @@
+.vscode
+outputs
+sequential
+ProiectLU
+Profiler
+Correct_check_split
+pin.log
+outputs/
+sequential
+mpi
+openmp
+vtune_setup.sh
+vtune
+vtune-gui
+*.hp/
+hybrid
